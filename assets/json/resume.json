@@ -1,9 +1,10 @@
 {
   "basics": {
     "name": "Yuxuan Xie",
+    "label": "Scientist",
     "email": "yuxuan.z.xie@gmail.com",
-    "url": "https://yuxuani.github.io/al-folio/",
-    "summary": "Master student specialized in image processing and machine learning.",
+    "url": "https://yuxuani.github.io",
+    "summary": "",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
