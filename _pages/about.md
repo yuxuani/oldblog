@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a master student from FSU Jena, major in photonics, specialized in image processing and computer vision. I possess a Bachelor degree in physics and studied biogeosciences for a while. Currently I’m working on my master thesis, which is about a medical application for facial palsy based on CycleGAN. 
+Hi, my name is Yuxuan. I’m a master student from FSU Jena, major in photonics, specialized in image processing and computer vision. I possess a Bachelor degree in physics and studied biogeosciences for a while. Currently I’m working on my master thesis, which is about a medical application for facial palsy based on CycleGAN. 
 
-As a lifelong learner, I always like to build up myself with new knowledge through self-learning. I’m enthusiastic about cutting edge AI technology, specifically medical and environmental applications which make the world better and life easier.
+As a lifelong learner, I always like to build up myself with new knowledge through self-learning. I’m enthusiastic about cutting edge AI technology and data science, specifically medical and environmental applications which could make the world better and life easier. :wink:
