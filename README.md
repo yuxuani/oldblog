@@ -1,4 +1,7 @@
-# al-folio
+# Yuxuan's Website
+*Powered by Jekyll with al-folio theme.*
+
+## al-folio
 
 <div align="center">
 
@@ -194,7 +197,8 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 ## Table Of Contents
 
-- [al-folio](#al-folio)
+- [Yuxuan's Website](#yuxuans-website)
+  - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
     - [Desktop](#desktop)
