@@ -5,9 +5,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: 中
+  - title: publications
     permalink: /404/
   - title: divider
-  - title: DE
+  - title: CV
     permalink: /404/
 ---
