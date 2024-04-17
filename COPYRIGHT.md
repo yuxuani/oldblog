@@ -1,0 +1,3 @@
+# Copyright
+
+The content of this website, excluding any source code derived from al-folio which is licensed under the [MIT License](LICENSE), is copyrighted to [Yuxuan Xie](yuxuan.z.xie@gmail.com), and all rights are reserved. This includes, but is not limited to, all original text, images, graphics, and other creative elements produced by Yuxuan Xie. No part of this website's content may be reproduced, distributed, or transmitted in any form or by any means without the prior written permission of Yuxuan Xie. For permissions or inquiries, please contact Yuxuan Xie at [yuxuan.z.xie@gmail.com](mailto:yuxuan.z.xie@gmail.com).
