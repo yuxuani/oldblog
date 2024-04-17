@@ -1,5 +1,5 @@
 # Yuxuan's Website
-The content of this website, excluding any source code derived from al-folio which is licensed under the [MIT License](LICENSE), is copyrighted to [Yuxuan Xie](mailto:yuxuan.z.xie@gmail.com). All rights reserved.
+The content of this repository and the website, excluding any source code derived from [al-folio](https://github.com/alshedivat/al-folio/) which is licensed under the [MIT License](LICENSE), is copyrighted to [Yuxuan Xie](mailto:yuxuan.z.xie@gmail.com). All rights reserved. (Details seeing [COPYRIGHT.md](COPYRIGHT.md).)
 
 ## al-folio
 
