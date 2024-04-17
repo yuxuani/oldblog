@@ -1,5 +1,5 @@
 # Yuxuan's Website
-*Powered by Jekyll with al-folio theme.*
+The content of this website, excluding any source code derived from al-folio which is licensed under the [MIT License](LICENSE), is copyrighted to [Yuxuan Xie](mailto:yuxuan.z.xie@gmail.com). All rights reserved.
 
 ## al-folio
 
