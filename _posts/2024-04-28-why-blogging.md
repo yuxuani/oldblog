@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Start Blogging Right NOW
-date: 2024-04-21 00:00:00
+date: 2024-04-28 00:00:00
 description: this is what included vega lite code could look like
 tags: blogging thoughts
 categories: essays, thoughts
