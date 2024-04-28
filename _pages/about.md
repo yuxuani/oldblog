@@ -20,4 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hi, my name is Yuxuan. I’m a master student from [FSU Jena](https://www.uni-jena.de), major in photonics, specialized in image processing and computer vision. I possess a Bachelor degree in physics and studied biogeosciences for a while. Currently I’m working on my master thesis, which is about a medical application for facial palsy based on CycleGAN. 
 
-As a lifelong learner, I always like to build up myself with new knowledge through self-learning. I’m enthusiastic about cutting edge AI technology and data science, specifically medical and environmental applications which could make the world better and life easier. :wink:
+As a lifelong learner, I always like to build up myself with new knowledge through self-learning. I’m enthusiastic about cutting edge AI technology and data science, specifically medical and environmental applications which could make the world better and life easier. 
+
+This website is under construction. You might take a look around. It will be enriched in the future. :wink:
